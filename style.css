@@ -1,0 +1,30 @@
+
+.container {
+  border: 2px solid gray;
+  padding: 10px;
+}
+
+header, footer {
+  background-color: #4A90E2;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #D36FA6;
+}
+
+.content-area {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.content {
+  background-color: #7EC283;
+  flex: 1;
+  padding: 20px;
+  margin: 5px;
+  text-align: center;
+}
