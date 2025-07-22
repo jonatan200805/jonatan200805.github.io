@@ -31,24 +31,39 @@ O site é composto por três páginas principais:
 - Responsividade mobile-first
 
 ## 📁 Estrutura de Pastas
-
 /
 ├── index.html
+
 ├── curriculum.html
+
 ├── portfolio.html
+
 ├── css/
+
 │ └── styles.css
+
 ├── img/
+
 │ ├── minha-foto.jpg
+
 │ └── projetos/
+
 │ ├── projeto1.jpg
+
 │ ├── projeto2.jpg
+
 │ └── projeto3.jpg
+
 ├── pdf/
+
 │ ├── curriculo.pdf
+
 │ ├── projeto1.pdf
+
 │ ├── projeto2.pdf
+
 │ └── projeto3.pdf
+
 └── README.md
 
 less
