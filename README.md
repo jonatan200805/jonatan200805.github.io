@@ -52,23 +52,23 @@ O site é composto por três páginas principais:
 └── README.md
 
 less
-Copiar
-Editar
 
 ## 🚀 Deploy no GitHub Pages
 
 O projeto foi publicado utilizando o recurso **GitHub Pages**.
 
 🔗 Acesse em:  
-[https://seuusuario.github.io/nome-do-repositorio](https://seuusuario.github.io/nome-do-repositorio)
+
+https://github.com/jonatan200805
+https://www.linkedin.com/in/jonatan-cordova-521862374
 
 > Substitua com o nome real do seu usuário e repositório GitHub.
 
 ## 📬 Contato
 
-- 💼 LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🧑‍💻 GitHub: [https://github.com/seu-perfil](https://github.com/seu-perfil)
-- ✉️ Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jonatan-cordova-521862374
+- 🧑‍💻 GitHub: https://github.com/jonatan200805
+- ✉️ Email: jonatancordova2005@gmail.com
 
 ---
 
